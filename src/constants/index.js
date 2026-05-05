@@ -127,7 +127,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Anshika's dedication to her work is inspiring. She doesn't just write code; she builds solutions that truly matter. I'm grateful for her unwavering support throughout our projects.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -135,7 +135,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Anshika optimized our web application, the performance and user experience improved significantly. She is a top-tier developer who knows exactly how to deliver results!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
