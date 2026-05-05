@@ -119,11 +119,11 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Anshika is a very good web developer. She has helped me a lot in my projects and learning journey.",
-    name: "Hemant Kushwaha",
-    designation: "Software Engineer",
-    company: "Personal Recommendation",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Anshika is not just a great developer but also a wonderful mentor. She has played a crucial role in my learning journey, and her guidance has made complex concepts easy for me",
+    name: "Sara Lee",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
